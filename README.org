@@ -1,0 +1,4 @@
+This code provides a simple [[https://github.com/purcell/mmm-mode][mmm-mode]] syntax highlighter for [[https://www.colm.net/open-source/ragel/][Ragel]]. I didn't
+write this, I merely adapted it from this [[https://www.emacswiki.org/emacs/RagelMode][Emacs Wiki page]].
+
+This code is presumed to be in the public domain.
